@@ -8,11 +8,7 @@ I would describe myself as "persistent", "creative" and "flexible".
 
 I'm currently learning more about Docker and Kubernetes. 
 
-### You can reach me through email:
-nourhenemdimagh@gmail.com 
 
- ### Fun Fact about me 
-I love writing articles and stories ✍🏼​✍🏼​
 <!--
 **NourheneMdimagh/NourheneMdimagh** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
